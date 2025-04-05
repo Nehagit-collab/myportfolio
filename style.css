@@ -676,10 +676,17 @@ span{
     .home-content h1{
         font-size: 4rem;
     }
+    .home-img{
+        margin-top:20px;
+        height:auto;
+        max-height:200px;
+    }
     .home-img img{
-        width: 50vw;
-        margin-top: 4rem;
-        margin-right: 300px;
+        width: 150px;
+        height:150px;
+        object-fit:cover;
+         margin-left:50px;
+        margin-top:15px;
     }
     .about{
         flex-direction: column-reverse;
@@ -719,9 +726,6 @@ span{
     }
 }
 @media (max-width :617px){
-    .header a{
-        display: none;
-    }
     .navbar{
         position: absolute;
         top: 100%;
