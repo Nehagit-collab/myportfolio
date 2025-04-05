@@ -488,12 +488,13 @@ span{
         gap:4rem;
         display: grid;
     }
-    .project-container3{
-    grid-template-columns: repeat(3,1fr);
+ .project-container3{
+       grid-template-columns: repeat(3,1fr);
         margin: 10px;
         gap:4rem;
         display: grid;
-    }
+       width:1200px;
+  }
 .project-container h2{
     font-size: 25px;
     text-align: center;
