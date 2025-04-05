@@ -482,6 +482,22 @@ span{
     align-items: center;
     gap: 4rem;
 }
+ .project-container2{
+        grid-template-columns: 1fr;
+        width: 350px;;
+        height: auto;
+        margin: 10px;
+        gap:4rem;
+        display: grid;
+    }
+    .project-container3{
+        grid-template-columns: 1fr;
+        width:350px;
+        height: auto;
+        margin: 10px;
+        gap:4rem;
+        display: grid;
+    }
 .project-container h2{
     font-size: 25px;
     text-align: center;
