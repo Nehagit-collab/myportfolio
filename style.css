@@ -484,16 +484,12 @@ span{
 }
  .project-container2{
        grid-template-columns: repeat(3,1fr);
-        width: 350px;;
-        height: auto;
         margin: 10px;
         gap:4rem;
         display: grid;
     }
     .project-container3{
     grid-template-columns: repeat(3,1fr);
-        width:350px;
-        height: auto;
         margin: 10px;
         gap:4rem;
         display: grid;
