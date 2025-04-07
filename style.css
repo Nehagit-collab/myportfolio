@@ -166,6 +166,7 @@ line-height: 1.2;
 .about-content p{
     font-size: 1.6rem;
     margin: 2rem 0 3rem;
+     text-align: justify;
 }
 span{
     color:aqua;
@@ -671,7 +672,7 @@ span{
     }
     .home{
         flex-direction: column;
-        margin-top: 100px;
+        margin-top: 50px;
     }
     .home-content h1{
         font-size: 4rem;
@@ -855,6 +856,10 @@ span{
     }
     .contact form .input-box input{
         width: 100%;
+    }
+      .home{
+        flex-direction: column;
+        margin-top: 50px;
     }
     .home-img img{
         width:70vw;
