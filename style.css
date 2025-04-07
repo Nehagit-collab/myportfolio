@@ -672,7 +672,7 @@ span{
     }
     .home{
         flex-direction: column;
-        margin-top: 50px;
+        margin-top: 20px;
     }
     .home-content h1{
         font-size: 4rem;
@@ -859,7 +859,7 @@ span{
     }
       .home{
         flex-direction: column;
-        margin-top: 50px;
+        margin-top: 25px;
     }
     .home-img img{
         width:70vw;
