@@ -869,6 +869,7 @@ span{
         margin-bottom: -200PX;
         background-color: black;
         font-size: medium;
+        margin:15px;
     }
     .about-img img{
         width:80vw;
